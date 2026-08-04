@@ -1,2 +1,11 @@
 # FT4232H-USB-C-DONGLE
-Me and Marco build an Flash/debug7interface adapter for our other stardance projects overnight, i acutally made parts of the schematic in the helios one lapse but after some thinking this is a usefull open source adapter and deserves its own project .
+
+An open-source USB-C flash/debug interface adapter built for our Stardance projects.
+
+## Features
+- FT4232H
+- 4 connectors:
+  - Standard 10-pin JTAG
+  - 3 additional buses with selectable 1.8 V or 3.3 V logic levels
+- USB-C
+- EEPROM
