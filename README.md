@@ -21,6 +21,15 @@ An open-source USB-C flash/debug interface adapter built for our Stardance proje
 
 ---
 
+## How to Use
+
+- Connect the adapter , use FTPROG to flash the eeprom .
+- Run the PY file , if needet install the serial module (python -m pip install pyserial)
+- The rest of the procces is explained in the Py file when run...
+
+
+---
+
 # PCB
 
 <p align="center">
